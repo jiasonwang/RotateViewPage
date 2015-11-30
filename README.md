@@ -21,3 +21,6 @@ ViewPager在切换的时候，页面会有一定角度的切换。
 mPager.setPageMargin(-50);
 mPager.setPageTransformer(true,new ZoomOutPageTransformer(mPager));
 ```
+#动态效果
+
+![pic1](http://dwz.cn/2fHqmI)

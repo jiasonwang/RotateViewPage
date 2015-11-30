@@ -23,4 +23,4 @@ mPager.setPageTransformer(true,new ZoomOutPageTransformer(mPager));
 ```
 #动态效果
 
-![pic1](http://dwz.cn/2fHqmI)
+![pic1](https://raw.githubusercontent.com/jiasonwang/RotateViewPage/master/images/rotateviewpager.gif)
